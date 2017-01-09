@@ -43,8 +43,8 @@ h1, h2, h3 {
 }
 
 #main {
-    width: 600px;
-    float: right;
+    width: auto;
+    float: left;
 }
 
 #footer {
